@@ -20,8 +20,8 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    twitter: '@webjeda'
+    stack-overflow: 10087111
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -30,82 +30,55 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Gaming
-        link:
-
       - item: YouTuber
+        link: https://www.youtube.com/channel/UCvT2iCIwns_RBk4ST_wZePQ
+
+      - item: Gaming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Software Developer who understand the value of Quality Code. Not just building software for earning but understanding
+      the craftsmanship behind building good quality software code. The code that will appreciated not only in terms of functionality
+      but also with its maintainability in longer terms.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Computer Application (MCA)
+      university: Rajiv Gandhi Technical University
+      time: 2009 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Master of Computer Applications (MCA) is a three-year professional Master’s Degree in Computer Application.
+
+          - Computers
+          - Mathematics
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2015 - Present
+      company: Springer Nature, Pune, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
+        Developed Greenfield micro services solution using cutting edge technologies for scientific domain product.
+
+        Technology used . - Play framework , Scala, Java, Spring Boot , Go language , Angular
+          - Event Driven Misroservices
+          - Test Driven Development
+    - role: Software Consutant
+      time: 2013 - 2015
+      company: Capgemini, Pune, India
+      details: |
+        Worked as a consultant for John Deere India technology vertical. The product is intended for the farmer to help
+        them manage their machinery, fleet, and inventory. developed micro-services using spring boot.
+          - Test Driven Development
+          - Cloud Tehnologies
+    - role: Software Developer
+      time: 2011 - 2013
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked as a Jr Software Developer, with the team who is working on the IVR based product for an insurance client.
+        Followed agile methodologies with the below-mentioned technology stack.
+
+          - Core Java
+          - Insurance Domain
 projects:
     title: Projects
     intro: >
@@ -159,10 +132,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Scala & jQuery
         level: 98%
 
       - name: Angular
@@ -171,11 +144,11 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Spring & Hibernate
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Golang
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
