@@ -74,7 +74,7 @@ experiences:
 
     - role: Software Developer
       time: 2011 - 2013
-      company: Amazon, London
+      company: Synechron, Pune, India
       details: |
         Worked as a Jr Software Developer, with the team who is working on the IVR based product for an insurance client.
         Followed agile methodologies with the below-mentioned technology stack.
@@ -110,19 +110,20 @@ skills:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      In my journey from Trainee Software Developer to Senior Software Developer have developed different projects with multiple domains.
+      My Focus is shifted from being only problem solver to wiring good quality software when was introduced to Test Driven development in year of 2012.
+      Form that year onward till today have attached my self with Code Quality Of How and why its important.
+      Below is short journey of Product and Technologies have worked.
     assignments:
       - title: Nano Nature
-        link: "Nano.nature.com"
+#        link: "Nano.nature.com"
         tagline: "Nano is very powerful research tool, it allows researches obtain and compare the characteristics of the
                   Nano materials with their composition and preparation method.
                   Developed using Play Framework, Scala, RESTful standards all components are loosely
                   coupled. This project is consisting set of Microservices, which will interact with each other to perform business logic."
 
       - title: Adis
-        link: "#"
+#        link: "#"
         tagline: "This is web application is developed for Researcher/PHD Student/ Pharma Companies. Adis is leading global provider of drug information.
                   Healthcare professional, researchers, decision makers and drug developers alike rely on the information.
                   Developed using Play Framework, Scala, RESTful standards, performing business logic using design of
@@ -130,13 +131,13 @@ projects:
                   the different services of web application."
 
       - title: MyJohnDeere
-        link: "http://myjohndeere.com/"
+#        link: "http://myjohndeere.com/"
         tagline: "This web application is a perfect solution for farmers/dealers who want to maintain complete life cycle their farms.
                   Developed using HTML5, CCS3. RESTful standards, performing business logic using design of Portal (UI)/Platform (Services)
                   , calling web services for data and develop rich UI so user can easily use the different services of web application."
 
       - title: ECE Services
-        link: "#"
+#        link: "#"
         tagline: "It is a web service platform that provides web services to other projects as well as UI for
                   ECE application the help the embedded engineers."
 
@@ -146,13 +147,13 @@ projects:
                   Active participation in new feature development, Production issues support."
 
       - title: Voice Self Service-IVR – Asurion USA
-        link: "#"
+#        link: "#"
         tagline: "The project is an IVR application, wherein developing the presentation part of that application.
                   As well as voice based logic implementation with .net framework.
                   Developed VUI control, where caller can route on the basis of logic provided by business user."
 
       - title: Market Data Accelerator
-        link: "#"
+#        link: "#"
         tagline: "This is web application that is a perfect solution for users who wants to buy and sell shares,
                 can access the real time information of share market prices, user is able to manage his/her account
                 of share related portfolios."
@@ -160,9 +161,8 @@ projects:
 publications:
     title: Side Project
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      This is list of project that have contributed in my spare time.
+
     papers:
       - title: The Art of Computer Programming
         link: "#"
@@ -174,10 +174,6 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
