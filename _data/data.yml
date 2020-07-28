@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: deepak.sharma@live.in
     phone: +91+8390613173
-    website: blog.webjeda.com #do not add http://
+    website: https://javascalago.com #do not add http://
     linkedin: deepak-sha
     github: java-scala-go
     telegram: # add your nickname without '@' sign
@@ -59,9 +59,10 @@ experiences:
       details: |
         Developed Greenfield micro services solution using cutting edge technologies for scientific domain product.
 
-        Technology used . - Play framework , Scala, Java, Spring Boot , Go language , Angular
+        Technology used - Play framework , Scala, Java, Spring Boot , Go language , Angular
           - Event Driven Misroservices
           - Test Driven Development
+
     - role: Software Consutant
       time: 2013 - 2015
       company: Capgemini, Pune, India
@@ -70,6 +71,7 @@ experiences:
         them manage their machinery, fleet, and inventory. developed micro-services using spring boot.
           - Test Driven Development
           - Cloud Tehnologies
+
     - role: Software Developer
       time: 2011 - 2013
       company: Amazon, London
@@ -79,6 +81,32 @@ experiences:
 
           - Core Java
           - Insurance Domain
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Java
+        level: 98%
+
+      - name: Scala
+        level: 90%
+
+      - name: Golang
+        level: 50%
+
+      - name: API Development/ REST APIs / Microservices
+        level: 98%
+
+      - name: Angular
+        level: 70%
+
+      - name: HTML5, CSS & Java Script
+        level: 95%
+
+      - name: Spring & Hibernate
+        level: 85%
+
 projects:
     title: Projects
     intro: >
@@ -86,28 +114,51 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Nano Nature
+        link: "Nano.nature.com"
+        tagline: "Nano is very powerful research tool, it allows researches obtain and compare the characteristics of the
+                  Nano materials with their composition and preparation method.
+                  Developed using Play Framework, Scala, RESTful standards all components are loosely
+                  coupled. This project is consisting set of Microservices, which will interact with each other to perform business logic."
 
-      - title: DevStudio
+      - title: Adis
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "This is web application is developed for Researcher/PHD Student/ Pharma Companies. Adis is leading global provider of drug information.
+                  Healthcare professional, researchers, decision makers and drug developers alike rely on the information.
+                  Developed using Play Framework, Scala, RESTful standards, performing business logic using design of
+                  Portal (UI)/Platform (Services), calling web services for data and develop rich UI so user can easily use
+                  the different services of web application."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: MyJohnDeere
+        link: "http://myjohndeere.com/"
+        tagline: "This web application is a perfect solution for farmers/dealers who want to maintain complete life cycle their farms.
+                  Developed using HTML5, CCS3. RESTful standards, performing business logic using design of Portal (UI)/Platform (Services)
+                  , calling web services for data and develop rich UI so user can easily use the different services of web application."
 
-      - title: Atom
+      - title: ECE Services
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "It is a web service platform that provides web services to other projects as well as UI for
+                  ECE application the help the embedded engineers."
 
-      - title: Delta
+      - title: JDLink
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "It is machine monitoring and optimization product used by farming customer and dealers to manage their equipment.
+                  Active participation in new feature development, Production issues support."
+
+      - title: Voice Self Service-IVR – Asurion USA
+        link: "#"
+        tagline: "The project is an IVR application, wherein developing the presentation part of that application.
+                  As well as voice based logic implementation with .net framework.
+                  Developed VUI control, where caller can route on the basis of logic provided by business user."
+
+      - title: Market Data Accelerator
+        link: "#"
+        tagline: "This is web application that is a perfect solution for users who wants to buy and sell shares,
+                can access the real time information of share market prices, user is able to manage his/her account
+                of share related portfolios."
 
 publications:
-    title: Publications
+    title: Side Project
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -127,28 +178,6 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Java
-        level: 98%
-
-      - name: Scala & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Spring & Hibernate
-        level: 85%
-
-      - name: Golang
-        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
